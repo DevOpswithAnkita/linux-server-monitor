@@ -31,8 +31,8 @@ The script will work without these but provides enhanced functionality when avai
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/server-monitoring-script.git
-cd server-monitoring-script
+git clone https://github.com/DevOpswithAnkita/linux-server-monitor.git
+cd linux-server-monitor
 ```
 
 2. Make the script executable:
